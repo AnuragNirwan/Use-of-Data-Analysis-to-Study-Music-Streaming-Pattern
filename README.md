@@ -1,7 +1,9 @@
 # Use-of-Data-Analysis-to-Study-Music-Streaming-Pattern,<br>
 
+# *PART ONE*
+
 ## Research on music streaming & data analytics <br>
-Before you dive into the actual process of collection and analysis of the data, your first component is about researching and understanding the 2 most important parts <br>
+*Before you dive into the actual process of collection and analysis of the data, your first component is about researching and understanding the 2 most important parts.* <br>
 
 **(i)  Music Streaming services** <br>
 **(ii) Data Analytics process<br>**
