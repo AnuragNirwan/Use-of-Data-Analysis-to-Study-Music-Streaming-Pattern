@@ -33,7 +33,21 @@ I will try to answer the following questions for two streaming services: one vid
 *In the next two components, I will analyze the music streaming patterns of five individuals and provide personalized music recommendations based on my analysis of their listening preferences.* <br>
 
 ## Identify the Data Requirements <br>
-*I will create a free Spotify account and select five individuals with diverse music tastes. Based on their preferences, I will create playlists featuring the 10 most frequently played songs for each individual.* <br>
-*For reference, some of the most popular music genres include Pop, Rock, Indie, Metal, Country, Hip-Hop, Jazz, Classical, Reggae, Soul, and Electronic.*<br>
-*Using Spotify's "Sort Your Music" feature (link provided below), I will analyze the playlists. This feature will display the values for various music attributes for each song in the playlists.*<br>
+I will create a free Spotify account and select five individuals with diverse music tastes. Based on their preferences, I will create playlists featuring the 10 most frequently played songs for each individual. <br>
+For reference, some of the most popular music genres include Pop, Rock, Indie, Metal, Country, Hip-Hop, Jazz, Classical, Reggae, Soul, and Electronic.*<br>
+Using Spotify's "Sort Your Music" feature (link provided below), I will analyze the playlists. This feature will display the values for various music attributes for each song in the playlists.<br>
 Link:- http://sortyourmusic.playlistmachinery.com/ <br>
+
+## Identify the variables necessary for data analysis. <br>
+I will outline the key variables to focus on for understanding the music streaming patterns of the five individuals and analyze their significance. To achieve this, I will conduct individual research on each variable and explore its effect on a song's pattern. <br>
+Examples of these variables include BPM (Beats Per Minute), Energy, Danceability, and others. <br>
+
+## Tabulate the data <br>
+The values for the various attributes will serve as the foundation for my raw data. <br>
+I will collect the necessary data and organize it into a well-structured table using Google Sheets or MS Excel.<br>
+Afterward, I will cross-check the data to ensure accuracy and consistency. By examining the table, I will understand the significance of the data and determine how it can be utilized effectively for the analysis. <br>
+
+# *PART THREE*
+## Understanding music streaming pattern through visual representation of data. <br>
+*Now that I have collected and tabulated the data, the next step is to visually represent and analyze it for interpretation.* <br>
+*I will analyze the data to identify patterns in each individual's music preferences. Based on this analysis, I will recommend a playlist of songs tailored to their unique tastes.* <br>
