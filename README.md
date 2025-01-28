@@ -1,9 +1,9 @@
-# Use-of-Data-Analysis-to-Study-Music-Streaming-Pattern,<br>
+# Use-of-Data-Analysis-to-Study-Music-Streaming-Pattern<br>
 
 # *PART ONE*
 
 ## Research on music streaming & data analytics <br>
-*Before you dive into the actual process of collection and analysis of the data, your first component is about researching and understanding the 2 most important parts.* <br>
+*Before I dive into the actual process of collecting and analyzing the data, my first step is to research and understand the two most important components.* <br>
 
 **(i)  Music Streaming services** <br>
 **(ii) Data Analytics process<br>**
@@ -15,7 +15,7 @@ But the Netflix recommendation system is not solely based on viewing history. It
 
 Similarly, a lot of different kinds of streaming services analyse user data. <br>
 
-Try and answer the following questions for any 2 streaming services (1 video streaming service and 1 music streaming service) -<br> 
+I will try to answer the following questions for two streaming services: one video streaming service and one music streaming service. -<br> 
 
 **1. What user data do they collect?** <br>
 **2. Why do they need this user data?** <br>
@@ -28,3 +28,12 @@ Try and answer the following questions for any 2 streaming services (1 video str
 3. Tools & Techniques used to analyse Data <br>
 4. Barriers to Effective Analysis <br>
 
+# *PART TWO*
+## Data mining and wrangling for music streaming. <br>
+*In the next two components, I will analyze the music streaming patterns of five individuals and provide personalized music recommendations based on my analysis of their listening preferences.* <br>
+
+## Identify the Data Requirements <br>
+*I will create a free Spotify account and select five individuals with diverse music tastes. Based on their preferences, I will create playlists featuring the 10 most frequently played songs for each individual.* <br>
+*For reference, some of the most popular music genres include Pop, Rock, Indie, Metal, Country, Hip-Hop, Jazz, Classical, Reggae, Soul, and Electronic.*<br>
+*Using Spotify's "Sort Your Music" feature (link provided below), I will analyze the playlists. This feature will display the values for various music attributes for each song in the playlists.*<br>
+Link:- http://sortyourmusic.playlistmachinery.com/ <br>
