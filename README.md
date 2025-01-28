@@ -15,6 +15,9 @@ Similarly, a lot of different kinds of streaming services analyse user data. <br
 
 Try and answer the following questions for any 2 streaming services (1 video streaming service and 1 music streaming service) -<br> 
 
-**1. What user data do they collect?**
-**2. Why do they need this user data?**
-**3. How do they end up using this data to create a better service?**
+**1. What user data do they collect?** <br>
+**2. Why do they need this user data?** <br>
+**3. How do they end up using this data to create a better service?** <br>
+
+## Report on data analytics procedure <br>
+*After understanding why services need user data, it is important to understand how this data is analysed.* 
