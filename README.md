@@ -51,3 +51,5 @@ Afterward, I will cross-check the data to ensure accuracy and consistency. By ex
 ## Understanding music streaming pattern through visual representation of data. <br>
 *Now that I have collected and tabulated the data, the next step is to visually represent and analyze it for interpretation.* <br>
 *I will analyze the data to identify patterns in each individual's music preferences. Based on this analysis, I will recommend a playlist of songs tailored to their unique tastes.* <br>
+
+# *In this Data analysis project, I have used tableau to analyze the data and present my findings in a dashboard*
