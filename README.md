@@ -20,4 +20,9 @@ Try and answer the following questions for any 2 streaming services (1 video str
 **3. How do they end up using this data to create a better service?** <br>
 
 ## Report on data analytics procedure <br>
-*After understanding why services need user data, it is important to understand how this data is analysed.* 
+*After understanding why services need user data, it is important to understand how this data is analysed.* <br>
+1. Definition of Data Analytics <br>
+2. Process of Data Analysis <br>
+3. Tools & Techniques used to analyse Data <br>
+4. Barriers to Effective Analysis <br>
+
